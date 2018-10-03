@@ -1,9 +1,9 @@
 # CatGames
 
-Games for cats- because cats deserve to have fun on phones too.
+Games for cats- because cats deserve to have fun too.
 
 ## Summary
-A simple Swift app designed for cats. Activities include chasing a laser pointer, fishing from the pond, and chansing mice. CatGames uses Apple's SpriteKit to create the 2D games. 
+A simple Swift app designed for cats. Activities include chasing a laser pointer, fishing from a pond, and chasing mice. CatGames uses Apple's SpriteKit to create the 2D games. 
 
 ## To Do
 * Add fish graphics to the Fish Pond
